@@ -1,0 +1,27 @@
+.tab_title table {
+  border-collapse: collapse;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #f1f1f1;
+  border: none;
+}
+.tab_title table td {
+  border: none;
+}
+.tab_title table td input {
+  width: 160px;
+  line-height: 40px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #f1f1f1;
+  color: #fff;
+  border: none;
+  background: #4a7dca;
+  margin: 20px 0;
+}
+.tab_title table tr:last-child input {
+  background-color: #f84e4e;
+  width: 100px;
+}
